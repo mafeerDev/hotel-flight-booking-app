@@ -29,6 +29,9 @@ This project was created to practice mobile development, UI design and app navig
 <img width="699" height="400" alt="image" src="https://github.com/user-attachments/assets/b9945b08-2753-4111-9516-f7ac70ac3872" />
 <img width="463" height="471" alt="image" src="https://github.com/user-attachments/assets/0b55e97f-305f-4f8c-828e-0ce021a185e3" />
 
+## Documentation
+
+[View Full Project Documentation](./docs/Booking-App-Technical-Documentation.pdf)
 
 ## Author
 Maria Fernanda Paredes Cruz
